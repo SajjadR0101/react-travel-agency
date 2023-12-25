@@ -1,0 +1,12 @@
+api main route : 'https://node-travel-agency.liara.run/'
+
+ponit :
+
+expDate format : 2023-10-24
+
+time format : 12:09 pm
+
+flyTime format : 127 min
+
+departDate & returnDate format : Wed, Dec 8
+
